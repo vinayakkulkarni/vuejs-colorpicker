@@ -22,7 +22,7 @@
     },
     "licenses": "MIT",
     "dependencies": {
-        "vue": "^2.4.2"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "babel-core": "^6.0.0",
